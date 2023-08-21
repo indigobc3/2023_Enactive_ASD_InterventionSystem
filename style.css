@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.intro {
+
+  background-color: #FFC73380;
+  padding: 4%;
+  border: 40% solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 200%;
+  text-align: center;
+}
